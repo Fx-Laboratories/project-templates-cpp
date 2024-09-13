@@ -67,6 +67,8 @@ compile_commands.json
 
 _deps
 
+.cache
+
 # Generators
 Makefile
 
