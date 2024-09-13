@@ -1,7 +1,6 @@
 CompileFlags:
     Add: [
         "-std=c++23",
-        "-I", "./include",
         "-pedantic",
         "-Weverything",
         "-Wno-pre-c++20-compat-pedantic",
