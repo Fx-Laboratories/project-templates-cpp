@@ -1,0 +1,9 @@
+module;
+
+export module mod;
+
+export constexpr auto
+func() -> int {
+    return 1;
+}
+
